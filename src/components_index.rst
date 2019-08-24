@@ -1,8 +1,9 @@
-Versioning
+Components
 ==========
 
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
+    :glob:
 
-    ./commit_messages
+    components/*

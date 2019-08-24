@@ -1,9 +1,9 @@
-Components
+Versioning
 ==========
 
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
+    :glob:
 
-    ./command_line
-    ./rest_api
+    versioning/*

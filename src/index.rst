@@ -6,6 +6,6 @@ Welcome to Development guidelines's documentation!
    :caption: Contents:
    :glob:
 
-   components/index
-   languages/index
-   versioning/index
+   components_index
+   languages_index
+   versioning_index

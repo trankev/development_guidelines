@@ -4,8 +4,6 @@ Languages
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
+    :glob:
 
-    ./javascript
-    ./python
-    ./rust
-    ./bash
+    languages/*
