@@ -1,8 +1,6 @@
-REST API
-========
+# REST API
 
-Reference
----------
+## Bibliography
 
 * [Introspected REST](https://introspected.rest/#1-definitions)
 

@@ -1,8 +1,6 @@
-Bibliography
-============
+# Bibliography
 
-Architecture
-------------
+## Architecture
 
 * [History of software architecture](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 * [domain driven hexagonal](https://github.com/Sairyss/domain-driven-hexagon)
@@ -10,26 +8,22 @@ Architecture
 * "Domain-Driven design - Tackling complexity in the heart of software" by Eric Evans
 * "Software architecture for developers" by Simon Brown
 
-Security
---------
+## Security
 
 * [Web application security checklist](https://www.appsecmonkey.com/blog/web-application-security-checklist/)
 
 
-Databases
----------
+## Databases
 
 * [The internals of PostgreSQL](http://www.interdb.jp/pg/pgsql01.html)
 
 
-Technologies
-------------
+## Technologies
 
 * [Overview of frontend/backend/devops technologies](https://github.com/kamranahmedse/developer-roadmap)
 
 
-Static analysis
----------------
+## Static analysis
 
 * [Tool list by wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 * [Tool list](https://github.com/analysis-tools-dev/static-analysis)
