@@ -2,7 +2,7 @@
 
 ## Bibliography
 
-* [5 diagrames to document software architecture](https://vvsevolodovich.dev/5-diagrams-to-document-software-architecture/)
+* [5 diagrams to document software architecture](https://vvsevolodovich.dev/5-diagrams-to-document-software-architecture/)
 * [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 
     How to document project structure
