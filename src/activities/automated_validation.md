@@ -14,3 +14,8 @@ pre-commit hooks, and build server related.
     * language and tooling agnostic way
     * set GNU Make and docker as only dependencies
 
+* [pre-commit](https://pre-commit.com/)
+
+    Script for running checks on each commit.
+    Only runs against staged files
+
