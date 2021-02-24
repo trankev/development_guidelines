@@ -7,3 +7,11 @@
 * [commitlint](https://github.com/conventional-changelog/commitlint#what-is-commitlint)
 
     commit message linter
+    
+* [gitlint](https://github.com/jorisroovers/gitlint)
+
+    commit message linter
+    
+* [commitlog](https://github.com/barelyhuman/commitlog)
+
+    create changelog from git changelog
