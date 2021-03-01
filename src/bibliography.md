@@ -14,6 +14,10 @@ Software engineering topics which are not related to a guideline.
 
     Definition of the architect role.
     Provides a architecture documentation structure.
+    
+* [Architecturally significant requirements](https://luminousmen.com/post/architecturally-significant-requirements)
+
+    Listing of quality attributes.
 
 
 ## Technologies
