@@ -3,3 +3,4 @@
 ## Bibliography
 
 * [form-based website authentication](https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+* [Microservices authentication](https://medium.com/tech-tajawal/microservice-authentication-and-authorization-solutions-e0e5e74b248a)
