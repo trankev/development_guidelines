@@ -2,7 +2,10 @@
 
 ## Bibliography
 
-* [Fluent project - format for translations](https://www.projectfluent.org/)
+### Translation tools
+
+* [Fluent project](https://www.projectfluent.org/)
+* [gettext](https://www.gnu.org/software/gettext/)
 
 ### ISO codes
 
