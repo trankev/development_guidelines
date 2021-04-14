@@ -18,11 +18,17 @@ Software engineering topics which are not related to a guideline.
 * [Architecturally significant requirements](https://luminousmen.com/post/architecturally-significant-requirements)
 
     Listing of quality attributes.
+    
+* [The architecture of open source applications](http://aosabook.org/en/index.html)
+
+    Describes the architecture of a few open source projets
 
 
 ## Technologies
 
 * [Overview of frontend/backend/devops technologies](https://github.com/kamranahmedse/developer-roadmap)
+* [Thoughtworks decoder](https://www.thoughtworks.com/decoder)
+* [Cloud native landscape](https://landscape.cncf.io/)
 
 
 ## Databases
