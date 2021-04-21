@@ -2,6 +2,8 @@
 
 ## Bibliography
 
+* [27 web application localization best practices](https://borntobeglobal.com/2020/05/26/web-application-localization-best-practices/#comments)
+
 ### Translation tools
 
 * [Fluent project](https://www.projectfluent.org/)
