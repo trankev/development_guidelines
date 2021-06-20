@@ -14,4 +14,5 @@ IFS=$'\n\t'  # do not consider spaces as a separator for lists
 ## Bibliography
 
 * [Unofficial bash "strict mode"](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls#pf60)
 * [Google shell style guide](https://google.github.io/styleguide/shell.xml)
