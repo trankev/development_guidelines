@@ -23,6 +23,9 @@ Software engineering topics which are not related to a guideline.
 
     Describes the architecture of a few open source projets
 
+## Multi tenancy
+
+* [Introduction to multi tenant architecture](https://allaboutbackend.substack.com/p/introduction-to-multi-tenant-architecture?r=8sprj&utm_campaign=post&utm_medium=web&utm_source=reddit)
 
 ## Technologies
 
