@@ -19,3 +19,6 @@ pre-commit hooks, and build server related.
     Script for running checks on each commit.
     Only runs against staged files
 
+* [Bazel](https://bazel.build/)
+   
+   Multi language build and test tool
