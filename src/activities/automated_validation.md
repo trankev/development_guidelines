@@ -7,6 +7,7 @@ pre-commit hooks, and build server related.
 * Static analysis tool list
     * [Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
     * [analysis-tools-dev (github)](https://github.com/analysis-tools-dev/static-analysis)
+    * [static code analysis tools](https://www.mycplus.com/featured-articles/best-static-code-analysis-and-review-tools/)
 * [Gazr](https://gazr.io/)
 
     Opiniated way to organize common tasks.
