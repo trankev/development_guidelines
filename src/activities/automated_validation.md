@@ -20,6 +20,9 @@ pre-commit hooks, and build server related.
     Script for running checks on each commit.
     Only runs against staged files
 
-* [Bazel](https://bazel.build/)
-   
-   Multi language build and test tool
+* Monorepo build tools
+
+   * [Bazel](https://bazel.build/)
+   * [Bit](https://bit.dev/)
+   * [Buck](https://buck.build/)
+   * [Lerna](https://github.com/lerna/lerna)
