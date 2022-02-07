@@ -28,3 +28,9 @@
 
 * [Ilograph](https://app.ilograph.com/)
 * [Terrastruct](https://terrastruct.com/)
+
+### Tech radars
+
+* generator by Zalando
+    * [Library](https://github.com/zalando/tech-radar)
+    * [Example](https://opensource.zalando.com/tech-radar/)
