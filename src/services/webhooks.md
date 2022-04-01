@@ -102,6 +102,7 @@ Goals:
 
 * [Building webhooks into your application guidelines and best practices](https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices)
 * [Webhooks done right](https://medium.com/prospa-engineering/webhooks-done-right-676d4e74578a)
+* [Hootsuite implementation with Kafka](https://medium.com/hootsuite-engineering/a-scalable-reliable-webhook-dispatcher-powered-by-kafka-2dc3d677f16b)
 
 
 ### Examples
