@@ -1,6 +1,9 @@
 # Event-driven system
 
-## Discoverning event
+## Discovering events
+
+[Event registry in event-driven architecture](https://adhasmana.medium.com/how-to-implement-event-registry-in-event-driven-architecture-fe244b143b1c)
+
 
 ## Access control
 
