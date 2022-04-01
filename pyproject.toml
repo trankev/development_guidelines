@@ -5,9 +5,9 @@ description = ""
 authors = ["Kevin Tran <kevin_tran@live.fr>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-mkdocs-material = "^6.2.8"
-mkdocs = "^1.1.2"
+python = "^3.10"
+mkdocs-material = "*"
+mkdocs = "*"
 
 [tool.poetry.dev-dependencies]
 
