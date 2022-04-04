@@ -22,6 +22,12 @@ Software engineering topics which are not related to a guideline.
 * [The architecture of open source applications](http://aosabook.org/en/index.html)
 
     Describes the architecture of a few open source projets
+    
+* [Awesome software architecture](https://awesome-architecture.com/)
+
+    List of resources about software architecture.
+    
+* [Software architecture tools](https://softwarearchitecture.tools/)
 
 ## Multi tenancy
 
