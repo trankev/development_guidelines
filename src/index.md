@@ -12,7 +12,3 @@
     Note: these resources must not be considered the reference as to what rules to follow,
     these are just here to give insight about alternatives rules and opinions about it,
     or how different companies or groups approach these problems.
-
-## Bibliography
-
-* [Twelve-factor app](https://12factor.net/)

@@ -16,3 +16,4 @@
 * [ISO 639: languages](https://en.wikipedia.org/wiki/ISO_639)
 * [ISO 8601: dates](https://en.wikipedia.org/wiki/ISO_8601)
 * [E.164: phone numbers](https://en.wikipedia.org/wiki/E.1640)
+* [ISO 31-1: quantities](https://en.wikipedia.org/wiki/ISO_31-1)
