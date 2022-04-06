@@ -1,5 +1,11 @@
 # Documentation
 
+## Analytics
+
+Goal: see how readers are interacting with the documentation.
+
+* important piece of documentation which is never read
+
 ## Bibliography
 
 * [The documentation system](https://documentation.divio.com/)
@@ -18,6 +24,13 @@
 
 * [Cheatsheet C4 model architecture documentation](http://www.codingthearchitecture.com/2017/04/27/visualising_and_documenting_software_architecture_cheat_sheets.html)
 * [arc42 - architecture documentation structure proposition](https://docs.arc42.org/home/)
+
+### Quality
+
+* [Digital ocean writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
+* [Quality checklist for API documentation](https://idratherbewriting.com/learnapidoc/docapis_quality_checklist.html)
+* [Measuring documentation quality](https://blog.doctave.com/2022/04/04/measuring-documentation-quality.html)
+* [Vale: documentation linter](https://github.com/errata-ai/vale)
 
 ### Diagrams
 
