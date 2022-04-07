@@ -10,4 +10,6 @@
 
 ### Open source products
 
-* [Ory](https://www.ory.sh/)
+* Ory
+    * [Official website](https://www.ory.sh/)
+    * [Usage tutorial](https://dev.to/peteole/how-we-built-a-student-project-platform-using-graphql-react-golang-ory-kratos-and-kubernetes-part-3-authentication-2603)
