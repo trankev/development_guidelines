@@ -11,6 +11,8 @@
 
 ### ISO codes
 
+[IETF jsonschema types](https://datatracker.ietf.org/doc/html/draft-bhutton-json-schema-validation-00#section-7.3)
+
 * [ISO 3166-1: countries](https://en.wikipedia.org/wiki/ISO_3166-1)
 * [ISO 4217: currencies](https://en.wikipedia.org/wiki/ISO_4217)
 * [ISO 639: languages](https://en.wikipedia.org/wiki/ISO_639)
