@@ -17,6 +17,7 @@ pre-commit hooks, and build server related.
 * tests results
 * tests coverage
 * load tests result metrics
+* linting issues
 
 ## Bibliography
 
