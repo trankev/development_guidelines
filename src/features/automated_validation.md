@@ -16,6 +16,7 @@ pre-commit hooks, and build server related.
    * license (check for incompatible licenses)
 * tests results
 * tests coverage
+* load tests result metrics
 
 ## Bibliography
 
