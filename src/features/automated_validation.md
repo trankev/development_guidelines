@@ -2,6 +2,21 @@
 
 pre-commit hooks, and build server related.
 
+## Formats
+
+* html: human-readable
+* machine-readable format
+* display results in console
+
+## What to report
+
+* line of code count
+* dependencies with:
+   * version (check for vulnerabilities, updates)
+   * license (check for incompatible licenses)
+* tests results
+* tests coverage
+
 ## Bibliography
 
 * Static analysis tool list
