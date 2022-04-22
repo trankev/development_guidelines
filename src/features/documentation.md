@@ -15,6 +15,9 @@ Goal: see how readers are interacting with the documentation.
 * [The art of developer documentation](https://digitalbuff.dev/articles/craftsmanship/developer-documentation)
 * [How to create and maintain good software documentation](https://itnext.io/how-to-create-and-maintain-good-software-documentation-bc8b4dcd32bf)
 * [Gitlab: handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)
+* [Who said writing documentation has to be boring](https://betterprogramming.pub/who-said-writing-documentation-is-boring-a3b0b071a848)
+
+    Contains diverse references to articles about the why and the how.
 
 ### Architecture documentation
 
