@@ -43,3 +43,11 @@ pre-commit hooks, and build server related.
    * [Bit](https://bit.dev/)
    * [Buck](https://buck.build/)
    * [Lerna](https://github.com/lerna/lerna)
+
+* [Dependabot](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/)
+
+    Automatic dependencies update
+    
+* [CodeQL](https://codeql.github.com/)
+
+    Code vulnerability check
