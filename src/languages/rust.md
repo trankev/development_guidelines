@@ -11,17 +11,22 @@ References
 
 ## Performance
 
-`cargo flamegraph`
+### `cargo flamegraph`
 
-Installation: `cargo install cargo-flamegraph`
-Usage: `cargo flamegraph -- <binary arguments>`
+Installation: `cargo install cargo-flamegraph`.
+
+Usage: `cargo flamegraph -- <binary arguments>`.
+
 Result in `./flamegraph.svg`, visualise with a web browswer in order to have interactivity (hovering).
 
-`valgrind` + `massif`
+### `valgrind` + `massif`
 
 Heap consumption usage.
+
 Install `valgrind` and `massif-visualizer`.
+
 Usage: `valgrind --tool=massif <binary> <binary arguments>`
+
 Visualize result: `massif-visualizer massif.out.*`
 
 ## Bibliography
