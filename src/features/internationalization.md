@@ -3,6 +3,7 @@
 ## Bibliography
 
 * [27 web application localization best practices](https://borntobeglobal.com/2020/05/26/web-application-localization-best-practices/#comments)
+* [Mozilla localization style guide](https://mozilla-l10n.github.io/styleguides/mozilla_general/#sentence-case)
 
 ### Translation tools
 
