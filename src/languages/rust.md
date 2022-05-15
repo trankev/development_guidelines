@@ -32,3 +32,4 @@ Visualize result: `massif-visualizer massif.out.*`
 ## Bibliography
 
 * [Rust API guidelines](https://rust-lang.github.io/api-guidelines/about.html)
+* [Comparing Rust Supply Chain Safety Tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/)
