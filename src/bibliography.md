@@ -5,6 +5,7 @@ Software engineering topics which are not related to a guideline.
 ## Miscellanous
 
 * [Twelve-factor app](https://12factor.net/)
+* [Designing and building modest architectures](https://betterprogramming.pub/designing-and-building-modest-architectures-2a0a9978234b)
 
 ## Technologies
 
