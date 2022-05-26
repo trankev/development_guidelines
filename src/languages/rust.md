@@ -33,3 +33,8 @@ Visualize result: `massif-visualizer massif.out.*`
 
 * [Rust API guidelines](https://rust-lang.github.io/api-guidelines/about.html)
 * [Comparing Rust Supply Chain Safety Tools](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/)
+
+### Tools
+
+* [cargo-modules](https://github.com/regexident/cargo-modules)
+    Visualize module dependencies
