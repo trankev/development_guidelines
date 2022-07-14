@@ -1,4 +1,4 @@
-# Event-driven system
+# Event-Driven Architecture
 
 ## Discovering events
 
@@ -16,13 +16,7 @@ Avoid sensitive information
 
 Fields:
 
-* type
-    * hierarchcal
-    * used for routing
-* metadata
-    * can be used for correlating/ordering, authorization, audit
-    * e.g. timestamp
-* payload
+* [Cloud Events](https://github.com/cloudevents/spec/blob/v0.3/spec.md)
 
 Versioning
 
@@ -41,3 +35,4 @@ Business vs. system exceptions
 
 * [EDA and microservices architecture best practices](https://developer.ibm.com/articles/eda-and-microservices-architecture-best-practices/)
 * [Topic Architecture best practices](https://docs.solace.com/Best-Practices/Topic-Architecture-Best-Practices.htm)
+    Specification for event format
