@@ -26,3 +26,4 @@ Can apply to backend or frontend.
     List of resources about software architecture.
     
 * [Software architecture tools](https://softwarearchitecture.tools/)
+* [Domain-driven hexagon](https://github.com/Sairyss/domain-driven-hexagon)
