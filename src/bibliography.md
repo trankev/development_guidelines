@@ -17,3 +17,10 @@ Software engineering topics which are not related to a guideline.
 ## Databases
 
 * [The internals of PostgreSQL](http://www.interdb.jp/pg/pgsql01.html)
+
+
+## Tooling
+
+* Tools used by Google
+    * [Article](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
+    * [Listing](https://github.com/jhuangtw/xg2xg)
