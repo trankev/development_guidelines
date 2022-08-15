@@ -36,3 +36,4 @@ Business vs. system exceptions
 * [EDA and microservices architecture best practices](https://developer.ibm.com/articles/eda-and-microservices-architecture-best-practices/)
 * [Topic Architecture best practices](https://docs.solace.com/Best-Practices/Topic-Architecture-Best-Practices.htm)
     Specification for event format
+* [Wix - 5 pitfalls to avoid](https://natansil.medium.com/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
