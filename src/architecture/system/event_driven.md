@@ -37,3 +37,8 @@ Business vs. system exceptions
 * [Topic Architecture best practices](https://docs.solace.com/Best-Practices/Topic-Architecture-Best-Practices.htm)
     Specification for event format
 * [Wix - 5 pitfalls to avoid](https://natansil.medium.com/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
+  * atomicity between saving in database and publishing an event
+  * using event sourcing everywhere
+  * context propagation
+  * events with large payloads
+  * not handling duplicate events
