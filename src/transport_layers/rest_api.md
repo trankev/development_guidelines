@@ -35,3 +35,4 @@
     * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses)
     * [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
     * [IETF](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-semantics#section-15)
+* Healthcheck response format: [RFC](https://inadarei.github.io/rfc-healthcheck/)
