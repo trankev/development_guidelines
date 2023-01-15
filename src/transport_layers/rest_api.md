@@ -28,6 +28,7 @@
 ### Guidelines
 
 * [Zalando REST API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+* [Google API Improvement Proposals](https://google.aip.dev/general)
 
 ### Protocol
 
