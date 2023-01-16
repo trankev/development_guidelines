@@ -24,3 +24,4 @@ Software engineering topics which are not related to a guideline.
 * Tools used by Google
     * [Article](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools)
     * [Listing](https://github.com/jhuangtw/xg2xg)
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
