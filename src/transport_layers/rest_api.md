@@ -37,3 +37,8 @@
     * [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
     * [IETF](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-semantics#section-15)
 * Healthcheck response format: [RFC](https://inadarei.github.io/rfc-healthcheck/)
+
+### API Managers
+
+* [WSO API Manager](https://wso2.com/api-manager/)
+* [APIMan](https://www.apiman.io/)
