@@ -42,3 +42,9 @@ Business vs. system exceptions
   * context propagation
   * events with large payloads
   * not handling duplicate events
+* Encore dev
+  * [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture)
+  * [Making a Business Case for an Event-Driven Architecture](https://encore.dev/blog/event-driven-architecture)
+  * [Building for Failure](https://encore.dev/blog/building-for-failure)
+  * [Long Term Ownership and Maintenance of an Event-Driven System](https://encore.dev/blog/long-term-ownership)
+* [Designing a Next-Level EventCatalog Setup for Event-Driven Architectures](https://itnext.io/designing-a-next-level-eventcatalog-setup-for-event-driven-architectures-754c0fd37691)
