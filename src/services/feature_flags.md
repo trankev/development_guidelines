@@ -9,3 +9,4 @@
 ### Open source products
 
 * [Unleash](https://github.com/Unleash/unleash)
+* [Flagsmith](https://github.com/Flagsmith/flagsmith)
